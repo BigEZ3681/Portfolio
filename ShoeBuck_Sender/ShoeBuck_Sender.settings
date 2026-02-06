@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShoeBuck_Sender" GeneratedClassName="ShoeBuck_Sender">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ewright@shoesensation.com, cbrehm@shoesensation.com</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7Slf0amc0sSiST8q1lFuP9TzaWaa2oa04bzaBbUH</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
